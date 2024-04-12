@@ -263,7 +263,7 @@ def funcHandler(tokens, vList, fList):
   print(returnVar)
   if returnVar.type == "identifier":
     for i in vList.variables:  
-      print("NEEEEEEEKER")
+      print("NEEEEK")
     
   return returnVar
 
